@@ -1,5 +1,5 @@
 from urllib import request
-import json
+import json, os
 
 TOKEN = os.environ.get('TOKEN')
 
